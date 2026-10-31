@@ -159,8 +159,22 @@ The four queries support different stages of retail pricing analysis:
 | Potential cost-recovery concern | Standard cost > average unit price                | Flag products for further investigation.               |
 
 
+## Learning Resources
+
+This project was developed as part of my SQL learning journey using Microsoft Learn and the AdventureWorksLT sample database.
+
+- [Microsoft Learn: Subqueries in SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/performance/subqueries?view=sql-server-ver16)
+- [Microsoft Learn: Transact-SQL Learning Path](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/)
+
+
 ## Author
 
 Aspiring Data Analyst | SQL | Microsoft Fabric | Power BI | Excel
 
-I am developing my data analytics skills through practical projects that combine SQL querying, business problem-solving, and data-driven decision-making. This project demonstrates my approach to analyzing retail pricing and documenting reproducible SQL workflows.
+I am developing my data analytics skills through practical projects that combine SQL querying, business problem-solving, and data-driven decision-making.
+
+This project demonstrates my ability to translate business questions into SQL queries, analyze retail pricing data, and document reproducible analytical workflows.
+
+GitHub: Profile
+
+LinkedIn: Profile
